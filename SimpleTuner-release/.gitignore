@@ -27,6 +27,8 @@ build/
 *.pyc
 *.pyo
 *.pyd
+*.jpg
+*.txt
 *.so
 *.dylib
 *.egg-info/
@@ -64,3 +66,4 @@ webhooks.json
 untracked/
 config/*/
 config/*.toml
+utils.py
