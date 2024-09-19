@@ -17,6 +17,7 @@ cache/
 *.pyd
 *.pyc
 *.pyo
+*.png
 *.pyd
 *.so
 *.dylib
